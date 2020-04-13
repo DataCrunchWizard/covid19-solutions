@@ -10,6 +10,8 @@ Bài viết này đề xuất một giải pháp "kép", vừa phục h
 
 ## Những mục tiêu cần đạt được của giải pháp
 
-1. Tính thực tiễn và sẵn sàng cao: vì vấn đề hiện tại là cấp bách, giải pháp đưa ra phải thực hiện được ngay mà không cần phải đầu tư những hạ tầng phức tạp hoặc ngân sách lớn. 
+1. **Tính sẵn sàng cao**: vì vấn đề hiện tại là cấp bách, giải pháp đưa ra phải thực hiện được ngay mà không cần phải đầu tư những hạ tầng phức tạp hoặc ngân sách lớn. 
 
-2. Khả năng mở rộng (scalable) lớn lên quy mô toàn thế giới: vì COVID-19 là vấn đề toàn cầu, nếu chúng ta chỉ giải quyết vấn đề cục bộ thì cũng sẽ rất khó triệt để. 
+2. **Khả năng mở rộng (scalable) lớn lên quy mô toàn thế giới**: vì COVID-19 là vấn đề toàn cầu, nếu chúng ta chỉ giải quyết vấn đề cục bộ thì cũng sẽ rất khó triệt để. 
+
+3. **Giải quyết được vấn đề kinh tế, việc làm một cách thực tiễn**: phương châm là đưa cần câu thay vì con cá, tức là cần làm thế nào phục hồi được việc làm cho những ngành ảnh hưởng nhất. 
