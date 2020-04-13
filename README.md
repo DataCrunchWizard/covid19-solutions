@@ -5,7 +5,7 @@
 
 Hiện tại, ngoài vấn đề làm sao giảm thiệt hại về người, thì một vấn đề khó khăn đó chính là phục hồi kinh tế. Thế nhưng bài toán `con gà và quả trứng` ở đây là: nếu không hoàn toàn hết được dịch thì sẽ không thể phục hồi được các hoạt động xã hội, từ đó rất khó phục hồi kinh tế. 
 
-Bài viết này đề xuất một giải pháp "kép", vừa phục hồi kinh tế, vừa giúp giảm dịch. Nó đang ở dạng sáng kiến, mong nhận thêm sự góp ý cũng như đề xuất của mọi người qua email: hong+2020@cjs.vn . 
+Bài viết này đề xuất một giải pháp "kép", vừa góp phần phục hồi kinh tế, vừa góp phần giảm dịch. Nó đang ở dạng sáng kiến, mong nhận thêm sự góp ý cũng như đề xuất của mọi người qua email: hong+2020@cjs.vn . 
 
 
 ## Những mục tiêu cần đạt được của giải pháp
@@ -23,3 +23,22 @@ Bài viết này đề xuất một giải pháp "kép", vừa phục h
 Để phục hồi kinh tế, thì cần giải quyết được 2 vấn đề: (1) tăng được số người miễn nhiễm với COVID-19 lên cao nhất để tạo lá chắn vì dịch bệnh sẽ không tự nhiên hết đi, đặc biệt với nền kinh tế mở với thế giới như hiện tại (2) từng bước dần giảm giãn cách xã hội trong phạm vi an toàn nhất. 
 
 Để tăng được số người miễn nhiễm với COVID-19, cách tốt nhất đó là có vacxin và tiêm vacxin cho mọi người. Tuy nhiên, giải pháp này không khả thi trong thời gian vài tháng tới. Thế nên, cách thứ 2 để tăng được số người miễn nhiễm với COVID-19 đó là `nhập khẩu` những người đã nhiễm COVID-19 và hết bệnh vào Việt Nam. 
+
+Thoạt nhiên, đây có vẻ như là một ý tưởng *điên rồ*, tuy nhiên nếu nghĩ kỹ lại thì chỉ số quan trọng nhất để chiến thằng COVID-19 trong tương lai dài hạn không phải là số người nhiễm là bao nhiêu, mà có bao nhiêu người có kháng thể chống COVID-19 trong cộng đồng. Chúng ta cần có càng nhiều người có kháng thể càng tốt, thế nên trên thế giới có gần 2 triệu người nhiễm và sẽ tăng lên thêm vài triệu người nữa nhanh chóng trong vài tháng tới chính là nguồn những người có kháng thể lớn nhất. 
+
+Nói cách khác, giải pháp chính là thu hút càng nhiều người có kháng thể COVID-19 (đã hết bệnh) tới Việt Nam để làm việc, du lịch... càng tốt. Như thế, ngành hàng không và du lịch sẽ dần phục hồi, và kéo theo nhiều ngành khác. 
+
+Bài toán đặt ra đó là: (1) làm sao thu hút được những người này hiệu quả nhất (2) làm sao kiểm soát được việc những người này đã có kháng thể COVID-19 trong người hay chưa một cách nhanh và hiệu quả. 
+
+### Giải pháp thu hút những người có kháng thể COVID-19 tới Việt Nam
+
+Đây lại là bài toán kinh doanh dành cho các nhà kinh tế, doanh nhân, tiếp thị, bán hàng... Trên lý thuyết, chúng ta có nhiều biện pháp khác nhau để thu hút bao gồm cả "mềm" và "cứng". Giải pháp "cứng" chính là giảm giá vé máy bay, giảm giá các cơ sở nghĩ dưỡng, khách sạn, khu du lịch, xây dựng các gói ưu đãi v.v... 
+
+Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau. 
+
+### Giải pháp kiểm soát những khách tới Việt Nam đã có kháng thể COVID-19 
+
+
+
+
+
