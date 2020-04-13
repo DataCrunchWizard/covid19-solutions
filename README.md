@@ -48,6 +48,8 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 
 ## Giải pháp xây dựng một cơ sở dữ liệu mở phân tán, bảo mật E2E để định danh những người có kháng thể COVID-19
 
-Bài toán khó nhất mà giải pháp này cần giải quyết đó không phải là vấn đề kỹ thuật phức tạp, mà là (1) tính sẵn sàng cao, có sẵn (2) tính mở cao để dễ mở rộng, truy xuất, nhập liệu an toàn từ khắp nơi trên thế giới 
+Bài toán định danh những người an toàn, có thể đi lại nhiều nơi không phải là mới trong mùa dịch COVID-19, nó đã được áp dụng tại Trung Quốc khi ở các nơi giao thông công cộng ai có thẻ màu xanh trên điện thoại thì mới được lên tàu. 
+
+Tuy nhiên, bài toán khó nhất mà giải pháp này cần giải quyết đó không phải là vấn đề kỹ thuật phức tạp, mà là (1) tính sẵn sàng cao, có sẵn (2) tính mở cao để dễ mở rộng, truy xuất, nhập liệu an toàn từ khắp nơi trên thế giới. Vì nếu mất nhiều thời gian để phát triển vì chưa có sẵn, khó khăn trong việc truy xuất hay không tiện lợi đều cản trở tính ứng dụng của nó. 
 
 
