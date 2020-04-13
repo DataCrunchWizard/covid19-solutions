@@ -48,6 +48,6 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 
 ## Giải pháp xây dựng một cơ sở dữ liệu mở phân tán, bảo mật E2E dành cho những người có kháng thể COVID-19
 
-
+Bài toán khó nhất mà giải pháp này cần giải quyết đó không phải là vấn đề kỹ thuật phức tạp, mà là (1) tính sẵn sàng cao, có sẵn (2) tính mở cao để dễ mở rộng, truy xuất, nhập liệu an toàn từ khắp nơi trên thế giới 
 
 
