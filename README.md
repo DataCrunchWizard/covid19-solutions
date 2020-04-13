@@ -38,13 +38,13 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 
 ### Giải pháp kiểm soát những khách tới Việt Nam đã có kháng thể COVID-19 
 
-Giải pháp chắc chắn nhất đó là thực hiện xét nghiệm, cách ly khi khách tới Việt Nam để kiểm tra xem có thực sự có kháng thể COVID-19 trong người hay chưa. Khó khăn của giải pháp này đó là mất thời gian và mang lại trải nghiệm du lịch không thoải mái cho khách du lịch. Tuy nhiên, để mang lại trải nghiệm tốt hơn chúng ta có thể:
+1. **Giải pháp chắc chắn nhất đó là thực hiện xét nghiệm, cách ly khi khách tới Việt Nam** để kiểm tra xem có thực sự có kháng thể COVID-19 trong người hay chưa. Khó khăn của giải pháp này đó là mất thời gian và mang lại trải nghiệm du lịch không thoải mái cho khách du lịch. Tuy nhiên, để mang lại trải nghiệm tốt hơn chúng ta có thể:
 
 - Tập trung khách du lịch vào những khu vực đảo như Phú Quốc, Côn Đảo... trước 
 - Khi khách tới sân bay lấy mẫu xét nghiệm thì có thể được đưa về nơi lưu trú và tự cách ly trong thời gian chờ kết quả xét nghiệm. 
 
 
-Giải pháp thứ hai, đó là xây dựng một cơ sở dữ liệu mở phân tán, lưu được khối lượng dữ liệu lớn (lên tới trên chục triệu người), an toàn nhưng có thể truy cập khắp nơi trên thế giới. Cơ sở dữ liệu dùng để khách du lịch và cơ quan có thẩm quyền (ví dụ: Lãnh sự quán, bệnh viện địa phương...) khai báo y tế cho khách du lịch. 
+2. **Giải pháp thứ hai, đó là xây dựng một cơ sở dữ liệu mở phân tán**, lưu được khối lượng dữ liệu lớn (lên tới trên chục triệu người), an toàn nhưng có thể truy cập khắp nơi trên thế giới. Cơ sở dữ liệu dùng để khách du lịch và cơ quan có thẩm quyền (ví dụ: Lãnh sự quán, bệnh viện địa phương...) khai báo y tế cho khách du lịch. 
 
 Dữ liệu này tuy là dễ dàng truy xuất nhưng sẽ được mã hoá sâu để chỉ có cá nhân mới có `chìa khoá` để mở ra, đây là một vấn đề đã được giải quyết hiệu quả và ứng dụng rộng khắp (End to End Encryption) . 
 
