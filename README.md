@@ -44,8 +44,6 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 - Khi khách tới sân bay lấy mẫu xét nghiệm thì có thể được đưa về nơi lưu trú và tự cách ly trong thời gian chờ kết quả xét nghiệm. 
 
 
-2. **Giải pháp thứ hai, đó là xây dựng một cơ sở dữ liệu mở phân tán**, lưu được khối lượng dữ liệu lớn (lên tới trên chục triệu người), an toàn nhưng có thể truy cập khắp nơi trên thế giới. Cơ sở dữ liệu dùng để khách du lịch và cơ quan có thẩm quyền (ví dụ: Lãnh sự quán, bệnh viện địa phương...) khai báo y tế cho khách du lịch. 
-
-Dữ liệu này tuy là dễ dàng truy xuất nhưng sẽ được mã hoá sâu để chỉ có cá nhân mới có `chìa khoá` để mở ra, đây là một vấn đề đã được giải quyết hiệu quả và ứng dụng rộng khắp (End to End Encryption) . 
+2. **Giải pháp thứ hai, đó là xây dựng một cơ sở dữ liệu mở phân tán**, lưu được khối lượng dữ liệu lớn (lên tới trên chục triệu người), an toàn nhưng có thể truy cập khắp nơi trên thế giới. Cơ sở dữ liệu dùng để khách du lịch và cơ quan có thẩm quyền (ví dụ: Lãnh sự quán, bệnh viện địa phương...) khai báo y tế cho khách du lịch. Dữ liệu này tuy là dễ dàng truy xuất nhưng sẽ được mã hoá sâu để chỉ có cá nhân mới có `chìa khoá` để mở ra, đây là một vấn đề đã được giải quyết hiệu quả và ứng dụng rộng khắp (End to End Encryption) . 
 
 
