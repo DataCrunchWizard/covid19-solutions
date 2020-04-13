@@ -52,4 +52,8 @@ Bài toán định danh những người an toàn, có thể đi lại nh
 
 Tuy nhiên, bài toán khó nhất mà giải pháp này cần giải quyết đó không phải là vấn đề kỹ thuật phức tạp, mà là (1) tính sẵn sàng cao, có sẵn (2) tính mở cao để dễ mở rộng, truy xuất, nhập liệu an toàn từ khắp nơi trên thế giới. Vì nếu mất nhiều thời gian để phát triển vì chưa có sẵn, khó khăn trong việc truy xuất hay không tiện lợi đều cản trở tính ứng dụng của nó. 
 
+### Kiến trúc hệ thống và dữ liệu
+....
 
+### Tính khả dụng 
+....
