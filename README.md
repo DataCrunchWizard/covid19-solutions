@@ -78,7 +78,7 @@ c. **Git phân tán và đồng bộ mạnh mẽ đơn giản**. Tưởng t
 
 d. **Hệ thống Github rất mạnh mẽ, miễn phí** Khi sử dụng git, chúng ta sẽ lưu dữ liệu trên 1 `sổ cái / nhánh master` và lưu trên Github.com , tất cả các nơi có thể `fork` ra 1 phiên bản mới, cập nhật thông tin và tạo `merge request/pull request` để cập nhật dữ liệu ngược lên nhánh `master`. Việc này khiến cho việc quản lý dữ liệu cực kỳ linh động nhưng lại rất hiệu quả. 
 
-e. **Ứng dụng để truy suất định danh rất đơn giản** Vì chúng ta vận hành trên Github thì ứng dụng truy cập chỉ cần làm 1 việc, đó là tải file dữ liệu của người cần định danh về và giải mã, lúc này sẽ có đầy đủ thông tin về bệnh án cũng như là lịch sử nhiễm bệnh, hết bệnh một cách chính xác, bảo mật. 
+e. **Ứng dụng để truy xuất định danh rất đơn giản** Vì chúng ta vận hành trên Github thì ứng dụng truy cập chỉ cần làm 1 việc, đó là tải file dữ liệu của người cần định danh về và giải mã, lúc này sẽ có đầy đủ thông tin về bệnh án cũng như là lịch sử nhiễm bệnh, hết bệnh một cách chính xác, bảo mật. 
 
 ### Bao lâu để hoàn chỉnh và đưa vào vận hành
 < 2 tuần
