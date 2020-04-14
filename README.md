@@ -52,7 +52,6 @@ Bài toán định danh những người an toàn, có thể đi lại nh
 
 Tuy nhiên, bài toán khó nhất mà giải pháp này cần giải quyết đó không phải là vấn đề kỹ thuật phức tạp, mà là (1) tính sẵn sàng cao, có sẵn (2) tính mở cao để dễ mở rộng, truy xuất, nhập liệu an toàn từ khắp nơi trên thế giới. Vì nếu mất nhiều thời gian để phát triển vì chưa có sẵn, khó khăn trong việc truy xuất hay không tiện lợi đều cản trở tính ứng dụng của nó. 
 
-### Kiến trúc hệ thống và dữ liệu
 
 #### 1. Lưu dữ liệu định danh mỗi cá nhân trên 1 file kiểu dữ liệu `json` 
 
@@ -65,6 +64,19 @@ b. **Dữ liệu trên dạng file dễ dàng mã hoá và giải mã kh
 
 c. **Dữ liệu trên dạng file sẽ dễ dàng sao chép, sync toàn bộ hay một phần** . Trên tình huống thực tế, khi cơ sở dữ liệu lên tới hàng trăm triệu người thì nếu cơ sở dữ liệu truyền thống sẽ khá phức tạp để vận hành và đòi hỏi chi phí lớn. Việc cấp quyền sao chép và sync cũng rất phức tạp. 
 
+#### 2. Sử dụng `git` để quản lý, ghi lịch sử thay đổi, chia sẻ, đồng bộ dữ liệu
 
-### Tính khả dụng 
-....
+Git là một sáng kiến tuyệt với của Linus (người đã chế tạo và là người phát triển chính của nhân Linux sau này đã trở thành nhân cho nhiều bảng phân phối và các hệ điều hành Android và Chrome OS). Git vô cùng mạnh mẽ và phổ biến trong giới lập trình. Lý do sử dụng git bao gồm
+
+a. **Gần như tất cả các nhà lập trình đều biết sử dụng git** Việc này giúp cho cơ sở dữ liệu được chia sẻ dễ dàng trên toàn thế giới . 
+
+b. **Git quản lý files, ghi dấu, lưu trữ cực kỳ mạnh mẽ** Git có thể nói là có thể ghi số lượng không giới hạn số files. Việc này làm tính mở rộng của hệ thống trở nên cực lớn . 
+
+c. **Git phân tán và đồng bộ mạnh mẽ đơn giản**. Tưởng tượng trong cùng 1 lúc có hàng  trăm ngàn lượt truy suất và ghi dữ liệu trên khắp các nơi trên thế giới, từ sân bay tới bệnh viện, thì git sẽ đáp ứng được điều này vì nó là dạng quản lý phân tán. Git giúp việc đồng bộ trở nên rất dễ dàng và kiểm soát chứng thực được dữ liệu . 
+
+d. **Hệ thống Github rất mạnh mẽ, miễn phí** Khi sử dụng git, chúng ta sẽ lưu dữ liệu trên 1 `sổ cái / nhánh master` và lưu trên Github.com , tất cả các nơi có thể `fork` ra 1 phiên bản mới, cập nhật thông tin và tạo `merge request/pull request` để cập nhật dữ liệu ngược lên nhánh `master`. Việc này khiến cho việc quản lý dữ liệu cực kỳ linh động nhưng lại rất hiệu quả. 
+
+e. **Ứng dụng để truy suất định danh rất đơn giản** Vì chúng ta vận hành trên Github thì ứng dụng truy cập chỉ cần làm 1 việc, đó là tải file dữ liệu của người cần định danh về và giải mã, lúc này sẽ có đầy đủ thông tin về bệnh án cũng như là lịch sử nhiễm bệnh, hết bệnh một cách chính xác, bảo mật. 
+
+### Bao lâu để hoàn chỉnh và đưa vào vận hành
+< 2 tuần
