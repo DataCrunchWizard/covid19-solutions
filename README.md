@@ -53,7 +53,18 @@ Bài toán định danh những người an toàn, có thể đi lại nh
 Tuy nhiên, bài toán khó nhất mà giải pháp này cần giải quyết đó không phải là vấn đề kỹ thuật phức tạp, mà là (1) tính sẵn sàng cao, có sẵn (2) tính mở cao để dễ mở rộng, truy xuất, nhập liệu an toàn từ khắp nơi trên thế giới. Vì nếu mất nhiều thời gian để phát triển vì chưa có sẵn, khó khăn trong việc truy xuất hay không tiện lợi đều cản trở tính ứng dụng của nó. 
 
 ### Kiến trúc hệ thống và dữ liệu
-....
+
+#### 1. Lưu dữ liệu định danh mỗi cá nhân trên 1 file kiểu dữ liệu `json` 
+
+Hệ cơ sở dữ liệu này sẽ được lưu trên dạng file theo kiểu dữ liệu `json`, chứ không phải là SQL hay NoSQL như các kiểu cơ sở dữ liệu truyển thống. Lý do:
+
+a. **Dữ liệu trên dạng file không cần hệ thống server để vận hành**. Tương tự như SQLite, chỉ cần mở file ra với ứng dụng thì có thể xem được nội dung. Việc không cần 1 server SQL backend truyền thống sẽ đơn giản hoá rất nhiều các công đoạn quản lý, bảo trì, sync dữ liệu v.v... 
+
+
+b. **Dữ liệu trên dạng file dễ dàng mã hoá và giải mã khi có key** . Tương tự như khi bạn mở 1 file tài liệu bị khoá, bạn chỉ cần có file đó và chìa khoá là mở được. Như thế sẽ rất tiện lợi đơn giản 
+
+c. **Dữ liệu trên dạng file sẽ dễ dàng sao chép, sync toàn bộ hay một phần** . Trên tình huống thực tế, khi cơ sở dữ liệu lên tới hàng trăm triệu người thì nếu cơ sở dữ liệu truyền thống sẽ khá phức tạp để vận hành và đòi hỏi chi phí lớn. Việc cấp quyền sao chép và sync cũng rất phức tạp. 
+
 
 ### Tính khả dụng 
 ....
