@@ -7,7 +7,7 @@ Hiện tại, ngoài vấn đề làm sao giảm thiệt hại về ngư�
 
 Bài viết này đề xuất một giải pháp "kép", vừa góp phần phục hồi kinh tế, vừa góp phần giảm dịch. Nó đang ở dạng sáng kiến, mong nhận thêm sự góp ý cũng như đề xuất của mọi người qua email: hong+2020@cjs.vn . 
 
-> Nếu không có biện pháp thì khả năng cao toàn thế giới chúng ta sẽ tiếp tục giãn cách xã hội tới năm 2022 để tránh quá tải hệ thống y tế. Thế nên một giải pháp với một tầm nhìn tương lai dài là rất quan trọng vào lúc này. 
+> Nếu không có biện pháp thì khả năng cao toàn thế giới chúng ta sẽ tiếp tục giãn cách xã hội tới năm 2022 để tránh quá tải hệ thống y tế. Thế nên một giải pháp với một tầm nhìn tương lai dài là rất quan trọng vào lúc này. Lý do là hiện tại đã quá nhiều người nhiễm và không được xét nghiệm, thế nên chúng ta không thể đẩy lùi COVID như với SARS trước đây. 
 > Nguồn: https://www.statnews.com/2020/04/14/some-social-distancing-may-be-needed-into-2022-to-keep-coronavirus-in-check-new-study-says/
 
 
