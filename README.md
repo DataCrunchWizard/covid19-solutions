@@ -30,13 +30,12 @@ Nói cách khác, giải pháp chính là thu hút càng nhiều ngươ
 
 Bài toán đặt ra đó là: (1) làm sao thu hút được những người này hiệu quả nhất (2) làm sao kiểm soát được việc những người này đã có kháng thể COVID-19 trong người hay chưa một cách nhanh và hiệu quả. 
 
-```
-  _Ghi chú:_ vẫn có khả năng người đã nhiễm có thể tái nhiễm, đây là nguy cơ lớn nhất của giải pháp này. Mặt khác, nếu đó là người tái nhiễm những dòng virus nhẹ thì đó lại là chủng virus rất hữu ích để tạo thành vacxin tự nhiên, hay nói cách khác, nếu xác định được người đã nhiễm và bị nhẹ thì khả năng cao họ nhiễm dòng virus yếu. 
+>_Ghi chú:_ vẫn có khả năng người đã nhiễm có thể tái nhiễm, đây là nguy cơ lớn nhất của giải pháp này. Mặt khác, nếu đó là người tái nhiễm những dòng virus nhẹ thì đó lại là chủng virus rất hữu ích để tạo thành vacxin tự nhiên, hay nói cách khác, nếu xác định được người đã nhiễm và bị nhẹ thì khả năng cao họ nhiễm dòng virus yếu. 
 
-  Tham khảo thêm về rủi ro này:
-  - https://www.tillett.info/2020/04/05/a-solution-to-covid-19/ 
-  - https://infonet.vietnamnet.vn/benh-nhan-so-22-tai-nhiem-bac-si-co-ly-giai-bat-ngo-post338196.info
-```
+>Tham khảo thêm về rủi ro này:
+>  - https://www.tillett.info/2020/04/05/a-solution-to-covid-19/ 
+>  - https://infonet.vietnamnet.vn/benh-nhan-so-22-tai-nhiem-bac-si-co-ly-giai-bat-ngo-post338196.info
+
 
 ### Giải pháp thu hút những người có kháng thể COVID-19 tới Việt Nam
 
