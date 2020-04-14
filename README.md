@@ -61,28 +61,28 @@ Tuy nhiên, bài toán khó nhất mà giải pháp này cần giải qu
 
 Hệ cơ sở dữ liệu này sẽ được lưu trên dạng file theo kiểu dữ liệu `json`, chứ không phải là SQL hay NoSQL như các kiểu cơ sở dữ liệu truyển thống. Lý do:
 
-a. **Dữ liệu trên dạng file không cần hệ thống server để vận hành**. Tương tự như SQLite, chỉ cần mở file ra với ứng dụng thì có thể xem được nội dung. Việc không cần 1 server SQL backend truyền thống sẽ đơn giản hoá rất nhiều các công đoạn quản lý, bảo trì, sync dữ liệu v.v... 
+- **Dữ liệu trên dạng file không cần hệ thống server để vận hành**. Tương tự như SQLite, chỉ cần mở file ra với ứng dụng thì có thể xem được nội dung. Việc không cần 1 server SQL backend truyền thống sẽ đơn giản hoá rất nhiều các công đoạn quản lý, bảo trì, sync dữ liệu v.v... 
 
 
-b. **Dữ liệu trên dạng file dễ dàng mã hoá và giải mã khi có key** . Tương tự như khi bạn mở 1 file tài liệu bị khoá, bạn chỉ cần có file đó và chìa khoá là mở được. Như thế sẽ rất tiện lợi đơn giản 
+- **Dữ liệu trên dạng file dễ dàng mã hoá và giải mã khi có key** . Tương tự như khi bạn mở 1 file tài liệu bị khoá, bạn chỉ cần có file đó và chìa khoá là mở được. Như thế sẽ rất tiện lợi đơn giản 
 
-c. **Dữ liệu trên dạng file sẽ dễ dàng sao chép, sync toàn bộ hay một phần** . Trên tình huống thực tế, khi cơ sở dữ liệu lên tới hàng trăm triệu người thì nếu cơ sở dữ liệu truyền thống sẽ khá phức tạp để vận hành và đòi hỏi chi phí lớn. Việc cấp quyền sao chép và sync cũng rất phức tạp. 
+- **Dữ liệu trên dạng file sẽ dễ dàng sao chép, sync toàn bộ hay một phần** . Trên tình huống thực tế, khi cơ sở dữ liệu lên tới hàng trăm triệu người thì nếu cơ sở dữ liệu truyền thống sẽ khá phức tạp để vận hành và đòi hỏi chi phí lớn. Việc cấp quyền sao chép và sync cũng rất phức tạp. 
 
-d. **Tính sẵn sàng High Availability cao** Vì dữ liệu phân tán, việc lưu dữ liệu trên file khiến việc truy suất trở nên dễ dàng và không lệ thuộc vào 1 server trung tâm
+- **Tính sẵn sàng High Availability cao** Vì dữ liệu phân tán, việc lưu dữ liệu trên file khiến việc truy suất trở nên dễ dàng và không lệ thuộc vào 1 server trung tâm
 
 #### 2. Sử dụng `git` để quản lý, ghi lịch sử thay đổi, chia sẻ, đồng bộ dữ liệu
 
 Git là một sáng kiến tuyệt với của Linus (người đã chế tạo và là người phát triển chính của nhân Linux sau này đã trở thành nhân cho nhiều bảng phân phối và các hệ điều hành Android và Chrome OS). Git vô cùng mạnh mẽ và phổ biến trong giới lập trình. Lý do sử dụng git bao gồm
 
-a. **Gần như tất cả các nhà lập trình đều biết sử dụng git** Việc này giúp cho cơ sở dữ liệu được chia sẻ dễ dàng trên toàn thế giới . 
+- **Gần như tất cả các nhà lập trình đều biết sử dụng git** Việc này giúp cho cơ sở dữ liệu được chia sẻ dễ dàng trên toàn thế giới . 
 
-b. **Git quản lý files, ghi dấu, lưu trữ cực kỳ mạnh mẽ** Git có thể nói là có thể ghi số lượng không giới hạn số files. Việc này làm tính mở rộng của hệ thống trở nên cực lớn . 
+- **Git quản lý files, ghi dấu, lưu trữ cực kỳ mạnh mẽ** Git có thể nói là có thể ghi số lượng không giới hạn số files. Việc này làm tính mở rộng của hệ thống trở nên cực lớn . 
 
-c. **Git phân tán và đồng bộ mạnh mẽ đơn giản**. Tưởng tượng trong cùng 1 lúc có hàng  trăm ngàn lượt truy xuất và ghi dữ liệu trên khắp các nơi trên thế giới, từ sân bay tới bệnh viện, thì git sẽ đáp ứng được điều này vì nó là dạng quản lý phân tán. Git giúp việc đồng bộ trở nên rất dễ dàng và kiểm soát chứng thực được dữ liệu . 
+- **Git phân tán và đồng bộ mạnh mẽ đơn giản**. Tưởng tượng trong cùng 1 lúc có hàng  trăm ngàn lượt truy xuất và ghi dữ liệu trên khắp các nơi trên thế giới, từ sân bay tới bệnh viện, thì git sẽ đáp ứng được điều này vì nó là dạng quản lý phân tán. Git giúp việc đồng bộ trở nên rất dễ dàng và kiểm soát chứng thực được dữ liệu . 
 
-d. **Hệ thống Github rất mạnh mẽ, miễn phí** Khi sử dụng git, chúng ta sẽ lưu dữ liệu trên 1 `sổ cái / nhánh master` và lưu trên Github.com , tất cả các nơi có thể `fork` ra 1 phiên bản mới, cập nhật thông tin và tạo `merge request/pull request` để cập nhật dữ liệu ngược lên nhánh `master`. Việc này khiến cho việc quản lý dữ liệu cực kỳ linh động nhưng lại rất hiệu quả. 
+- **Hệ thống Github rất mạnh mẽ, miễn phí** Khi sử dụng git, chúng ta sẽ lưu dữ liệu trên 1 `sổ cái / nhánh master` và lưu trên Github.com , tất cả các nơi có thể `fork` ra 1 phiên bản mới, cập nhật thông tin và tạo `merge request/pull request` để cập nhật dữ liệu ngược lên nhánh `master`. Việc này khiến cho việc quản lý dữ liệu cực kỳ linh động nhưng lại rất hiệu quả. 
 
-e. **Ứng dụng để truy xuất định danh rất đơn giản** Vì chúng ta vận hành trên Github thì ứng dụng truy cập chỉ cần làm 1 việc, đó là tải file dữ liệu của người cần định danh về và giải mã, lúc này sẽ có đầy đủ thông tin về bệnh án cũng như là lịch sử nhiễm bệnh, hết bệnh một cách chính xác, bảo mật. 
+- **Ứng dụng để truy xuất định danh rất đơn giản** Vì chúng ta vận hành trên Github thì ứng dụng truy cập chỉ cần làm 1 việc, đó là tải file dữ liệu của người cần định danh về và giải mã, lúc này sẽ có đầy đủ thông tin về bệnh án cũng như là lịch sử nhiễm bệnh, hết bệnh một cách chính xác, bảo mật. 
 
 Tham khảo thêm: https://nede.dev/blog/turning-git-into-an-application-database
 
