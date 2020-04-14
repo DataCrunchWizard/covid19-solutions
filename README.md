@@ -72,7 +72,7 @@ a. **Gần như tất cả các nhà lập trình đều biết sử du
 
 b. **Git quản lý files, ghi dấu, lưu trữ cực kỳ mạnh mẽ** Git có thể nói là có thể ghi số lượng không giới hạn số files. Việc này làm tính mở rộng của hệ thống trở nên cực lớn . 
 
-c. **Git phân tán và đồng bộ mạnh mẽ đơn giản**. Tưởng tượng trong cùng 1 lúc có hàng  trăm ngàn lượt truy suất và ghi dữ liệu trên khắp các nơi trên thế giới, từ sân bay tới bệnh viện, thì git sẽ đáp ứng được điều này vì nó là dạng quản lý phân tán. Git giúp việc đồng bộ trở nên rất dễ dàng và kiểm soát chứng thực được dữ liệu . 
+c. **Git phân tán và đồng bộ mạnh mẽ đơn giản**. Tưởng tượng trong cùng 1 lúc có hàng  trăm ngàn lượt truy xuất và ghi dữ liệu trên khắp các nơi trên thế giới, từ sân bay tới bệnh viện, thì git sẽ đáp ứng được điều này vì nó là dạng quản lý phân tán. Git giúp việc đồng bộ trở nên rất dễ dàng và kiểm soát chứng thực được dữ liệu . 
 
 d. **Hệ thống Github rất mạnh mẽ, miễn phí** Khi sử dụng git, chúng ta sẽ lưu dữ liệu trên 1 `sổ cái / nhánh master` và lưu trên Github.com , tất cả các nơi có thể `fork` ra 1 phiên bản mới, cập nhật thông tin và tạo `merge request/pull request` để cập nhật dữ liệu ngược lên nhánh `master`. Việc này khiến cho việc quản lý dữ liệu cực kỳ linh động nhưng lại rất hiệu quả. 
 
