@@ -55,6 +55,8 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 
 Việc xây dựng cơ sở dữ liệu này gần như là giải pháp cuối cùng để sống chung với dịch, giải pháp này đã được Trung Quốc ứng dụng (thông qua app để phân biệt được người nào có thẻ xanh thì có thể lên tàu, thẻ đỏ thì phải cách ly xã hội). Bill Gates cũng cho ý kiến là khả năng cao việc định danh người bệnh là cách duy nhất để sống chung với dịch nếu thế giới không dập được dịch. 
 
+Tham khảo thêm tại: https://www.theregister.co.uk/2020/04/09/covid_surveillance_apps/
+
 ## Giải pháp xây dựng một cơ sở dữ liệu mở phân tán, bảo mật E2E để định danh những người có kháng thể COVID-19
 
 Bài toán định danh những người an toàn, có thể đi lại nhiều nơi không phải là mới trong mùa dịch COVID-19, nó đã được áp dụng tại Trung Quốc khi ở các nơi giao thông công cộng ai có thẻ màu xanh trên điện thoại thì mới được lên tàu. 
