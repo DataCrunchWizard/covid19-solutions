@@ -80,5 +80,7 @@ d. **Hệ thống Github rất mạnh mẽ, miễn phí** Khi sử dụng 
 
 e. **Ứng dụng để truy xuất định danh rất đơn giản** Vì chúng ta vận hành trên Github thì ứng dụng truy cập chỉ cần làm 1 việc, đó là tải file dữ liệu của người cần định danh về và giải mã, lúc này sẽ có đầy đủ thông tin về bệnh án cũng như là lịch sử nhiễm bệnh, hết bệnh một cách chính xác, bảo mật. 
 
+Tham khảo thêm: https://nede.dev/blog/turning-git-into-an-application-database
+
 ### Bao lâu để hoàn chỉnh và đưa vào vận hành
 < 2 tuần
