@@ -30,6 +30,8 @@ Nói cách khác, giải pháp chính là thu hút càng nhiều ngươ
 
 Bài toán đặt ra đó là: (1) làm sao thu hút được những người này hiệu quả nhất (2) làm sao kiểm soát được việc những người này đã có kháng thể COVID-19 trong người hay chưa một cách nhanh và hiệu quả. 
 
+_Ghi chú:_ vẫn có khả năng người đã nhiễm có thể tái nhiễm, đây là nguy cơ lớn nhất của giải pháp này. Mặt khác, nếu đó là người tái nhiễm những dòng virus nhẹ thì đó lại là chủng virus rất hữu ích để tạo thành vacxin tự nhiên, hay nói cách khác, nếu xác định được người đã nhiễm và bị nhẹ thì khả năng cao họ nhiễm dòng virus yếu. Tham khảo thêm tại: https://www.tillett.info/2020/04/05/a-solution-to-covid-19/ 
+
 ### Giải pháp thu hút những người có kháng thể COVID-19 tới Việt Nam
 
 Đây lại là bài toán kinh doanh dành cho các nhà kinh tế, doanh nhân, tiếp thị, bán hàng... Trên lý thuyết, chúng ta có nhiều biện pháp khác nhau để thu hút bao gồm cả "mềm" và "cứng". Giải pháp "cứng" chính là giảm giá vé máy bay, giảm giá các cơ sở nghĩ dưỡng, khách sạn, khu du lịch, xây dựng các gói ưu đãi v.v... 
@@ -40,7 +42,7 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 
 1. **Giải pháp chắc chắn nhất đó là thực hiện xét nghiệm, cách ly khi khách tới Việt Nam** để kiểm tra xem có thực sự có kháng thể COVID-19 trong người hay chưa. Khó khăn của giải pháp này đó là mất thời gian và mang lại trải nghiệm du lịch không thoải mái cho khách du lịch. Tuy nhiên, để mang lại trải nghiệm tốt hơn chúng ta có thể:
 
-- Tập trung khách du lịch vào những khu vực đảo như Phú Quốc, Côn Đảo... trước 
+- Tập trung khách du lịch vào những khu vực đảo như Phú Quốc, Côn Đảo...  
 - Khi khách tới sân bay lấy mẫu xét nghiệm thì có thể được đưa về nơi lưu trú và tự cách ly trong thời gian chờ kết quả xét nghiệm. 
 
 
