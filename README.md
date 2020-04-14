@@ -64,6 +64,8 @@ b. **Dữ liệu trên dạng file dễ dàng mã hoá và giải mã kh
 
 c. **Dữ liệu trên dạng file sẽ dễ dàng sao chép, sync toàn bộ hay một phần** . Trên tình huống thực tế, khi cơ sở dữ liệu lên tới hàng trăm triệu người thì nếu cơ sở dữ liệu truyền thống sẽ khá phức tạp để vận hành và đòi hỏi chi phí lớn. Việc cấp quyền sao chép và sync cũng rất phức tạp. 
 
+d. **Tính sẵn sàng High Availability cao** Vì dữ liệu phân tán, việc lưu dữ liệu trên file khiến việc truy suất trở nên dễ dàng và không lệ thuộc vào 1 server trung tâm
+
 #### 2. Sử dụng `git` để quản lý, ghi lịch sử thay đổi, chia sẻ, đồng bộ dữ liệu
 
 Git là một sáng kiến tuyệt với của Linus (người đã chế tạo và là người phát triển chính của nhân Linux sau này đã trở thành nhân cho nhiều bảng phân phối và các hệ điều hành Android và Chrome OS). Git vô cùng mạnh mẽ và phổ biến trong giới lập trình. Lý do sử dụng git bao gồm
