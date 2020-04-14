@@ -48,6 +48,8 @@ Chúng ta dành bài toán này cho nhiều sáng kiến khác nhau.
 
 2. **Giải pháp thứ hai, đó là xây dựng một cơ sở dữ liệu mở phân tán**, lưu được khối lượng dữ liệu lớn (lên tới trên chục triệu người), an toàn nhưng có thể truy cập khắp nơi trên thế giới. Cơ sở dữ liệu dùng để khách du lịch và cơ quan có thẩm quyền (ví dụ: Lãnh sự quán, bệnh viện địa phương...) khai báo y tế cho khách du lịch. Dữ liệu này tuy là dễ dàng truy xuất nhưng sẽ được mã hoá sâu để chỉ có cá nhân mới có `chìa khoá` để mở ra, đây là một vấn đề đã được giải quyết hiệu quả và ứng dụng rộng khắp (End to End Encryption - E2E) . 
 
+Việc xây dựng cơ sở dữ liệu này gần như là giải pháp cuối cùng để sống chung với dịch, giải pháp này đã được Trung Quốc ứng dụng (thông qua app để phân biệt được người nào có thẻ xanh thì có thể lên tàu, thẻ đỏ thì phải cách ly xã hội). Bill Gates cũng cho ý kiến là khả năng cao việc định danh người bệnh là cách duy nhất để sống chung với dịch nếu thế giới không dập được dịch. 
+
 ## Giải pháp xây dựng một cơ sở dữ liệu mở phân tán, bảo mật E2E để định danh những người có kháng thể COVID-19
 
 Bài toán định danh những người an toàn, có thể đi lại nhiều nơi không phải là mới trong mùa dịch COVID-19, nó đã được áp dụng tại Trung Quốc khi ở các nơi giao thông công cộng ai có thẻ màu xanh trên điện thoại thì mới được lên tàu. 
