@@ -78,7 +78,7 @@ Hệ cơ sở dữ liệu này sẽ được lưu trên dạng file theo k
 
 - **Dữ liệu trên dạng file sẽ dễ dàng sao chép, sync toàn bộ hay một phần** . Trên tình huống thực tế, khi cơ sở dữ liệu lên tới hàng trăm triệu người thì nếu cơ sở dữ liệu truyền thống sẽ khá phức tạp để vận hành và đòi hỏi chi phí lớn. Việc cấp quyền sao chép và sync cũng rất phức tạp. 
 
-- **Tính sẵn sàng High Availability cao** Vì dữ liệu phân tán, việc lưu dữ liệu trên file khiến việc truy suất trở nên dễ dàng và không lệ thuộc vào 1 server trung tâm
+- **Tính sẵn sàng High Availability cao** Vì dữ liệu phân tán, việc lưu dữ liệu trên file khiến việc truy xuất trở nên dễ dàng và không lệ thuộc vào 1 server trung tâm
 
 #### 2. Sử dụng `git` để quản lý, ghi lịch sử thay đổi, chia sẻ, đồng bộ dữ liệu
 
